@@ -1,1 +1,1 @@
-This is readme file contains pointers arrays strings
+This README file contains the pointers arrays strings 
